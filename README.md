@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-olá, meu nome é Evandro dos Reis Silva, sou estudante de programação pela DevClub, gosto muito de tecnologia e estou a procura do meu primeiro estágio ou emprego na área da programação.
+Olá, meu nome é Evandro dos Reis Silva, sou estudante de programação pela DevClub, gosto muito de tecnologia e estou a procura do meu primeiro estágio ou emprego na área da programação.
 <br>
 <br>
 
